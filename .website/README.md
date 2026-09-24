@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - simulation
+  - horror
 directors_cut: https://tamats.com/games/deep13/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
